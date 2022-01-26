@@ -22,3 +22,5 @@
 - [Data Visualization in Data Science using R](https://academy.dqlab.id/certificate/pdf/DQLABDTVISNAWVOR)
 ###### SQL
 - [Fundamental SQL](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2DEGGPG)
+##### EXCEL
+[Excel Tingkat Lanjut](https://academy.dqlab.id/certificate/pdf/DQLABQEXL2CELNUF)

@@ -5,6 +5,7 @@
 - [Project: Customer Churn Prediction](https://github.com/nozadeasasmina/Customer_Churn_Prediction)
 - [Project: Object Oriented Programming (OOP)](https://github.com/nozadeasasmina/OOP_StudyCase)
 ## Certificate
+- [Introduction to Data Science](https://pdf.credential.net/5621f7to_1644025907233.pdf)
 #### DataCamp
 - [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/5152fafb234fcf1f9ad0769a4e7543a177aab569)
 - [Introduction to Relational Database in SQL](https://www.datacamp.com/statement-of-accomplishment/course/89a53bb100c5be34df2547ca62bf42d11128fd93)

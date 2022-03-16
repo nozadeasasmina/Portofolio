@@ -4,6 +4,7 @@
 - [Project: Ads Clicked in E-commerce](https://github.com/nozadeasasmina/Ads_Ecommerce)
 - [Project: Customer Churn Prediction](https://github.com/nozadeasasmina/Customer_Churn_Prediction)
 - [Project: Object Oriented Programming (OOP)](https://github.com/nozadeasasmina/OOP_StudyCase)
+## Bootcamp
 ## Certificate
 - [Introduction to Data Science](https://pdf.credential.net/5621f7to_1644025907233.pdf)
 #### DataCamp
@@ -23,5 +24,5 @@
 - [Data Visualization in Data Science using R](https://academy.dqlab.id/certificate/pdf/DQLABDTVISNAWVOR)
 ###### SQL
 - [Fundamental SQL](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2DEGGPG)
-##### EXCEL
+###### EXCEL
 [Excel Tingkat Lanjut](https://academy.dqlab.id/certificate/pdf/DQLABQEXL2CELNUF)

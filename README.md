@@ -5,7 +5,7 @@
 - [Project: Customer Churn Prediction](https://github.com/nozadeasasmina/Customer_Churn_Prediction)
 - [Project: Object Oriented Programming (OOP)](https://github.com/nozadeasasmina/OOP_StudyCase)
 ## Bootcamp
-## Certificate
+## Courses
 - [Introduction to Data Science](https://pdf.credential.net/5621f7to_1644025907233.pdf)
 #### DataCamp
 - [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/5152fafb234fcf1f9ad0769a4e7543a177aab569)
@@ -24,5 +24,5 @@
 - [Data Visualization in Data Science using R](https://academy.dqlab.id/certificate/pdf/DQLABDTVISNAWVOR)
 ###### SQL
 - [Fundamental SQL](https://academy.dqlab.id/certificate/pdf/DQLABSQLT2DEGGPG)
-###### EXCEL
+###### Excel
 [Excel Tingkat Lanjut](https://academy.dqlab.id/certificate/pdf/DQLABQEXL2CELNUF)

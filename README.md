@@ -5,6 +5,8 @@
 - [Project: Customer Churn Prediction](https://github.com/nozadeasasmina/Customer_Churn_Prediction)
 - [Project: Object Oriented Programming (OOP)](https://github.com/nozadeasasmina/OOP_StudyCase)
 ## Bootcamp
+- Data Science Bootcamp by PT.Sharing Vision
+- Business Intelligence by Rakamin x Digitalent Kominfo
 ## Courses
 - [Introduction to Data Science](https://pdf.credential.net/5621f7to_1644025907233.pdf)
 #### DataCamp

@@ -6,7 +6,7 @@
 - [Project: Object Oriented Programming (OOP)](https://github.com/nozadeasasmina/OOP_StudyCase)
 ## Bootcamp
 - Data Science Bootcamp by PT.Sharing Vision
-- Business Intelligence by Rakamin x Digitalent Kominfo
+- [Business Intelligence by Rakamin x Digitalent Kominfo](https://drive.google.com/file/d/1ucp5yS0uocPYPs934miZHfiAPt4VtncV/view?usp=sharing)
 ## Courses
 - [Introduction to Data Science](https://pdf.credential.net/5621f7to_1644025907233.pdf)
 - [Data Analysis: A Practical Introduction for Absolute Beginners](https://pdf.credential.net/37lt636j_1652161006053.pdf)

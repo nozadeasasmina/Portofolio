@@ -4,7 +4,8 @@
 - [Project: Ads Clicked in E-commerce](https://github.com/nozadeasasmina/Ads_Ecommerce)
 - [Project: Customer Churn Prediction](https://github.com/nozadeasasmina/Customer_Churn_Prediction)
 - [Project: Object Oriented Programming (OOP)](https://github.com/nozadeasasmina/OOP_StudyCase)
-- [Project: Dashboard using Tableau and GDS]
+- [Project: Dashboard using GDS](https://datastudio.google.com/reporting/2c15b5f5-87e7-445d-991e-bc5a740bd511)
+- [Project: Dashboard using Tableau](https://public.tableau.com/shared/X5GS8PXWC?:display_count=n&:origin=viz_share_link)
 ## Bootcamp
 - Data Science Bootcamp by PT.Sharing Vision
 - [Business Intelligence by Rakamin x Digitalent Kominfo](https://drive.google.com/file/d/1ucp5yS0uocPYPs934miZHfiAPt4VtncV/view?usp=sharing)

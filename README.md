@@ -13,6 +13,8 @@
 - [Introduction to Data Science](https://pdf.credential.net/5621f7to_1644025907233.pdf)
 - [Data Analysis: A Practical Introduction for Absolute Beginners](https://pdf.credential.net/37lt636j_1652161006053.pdf)
 - [Introduction to Data Analysis using Excel](https://pdf.credential.net/k19aknfc_1652160917844.pdf)
+- [Data Visualization: A Practical Approach for Absolute Beginners](https://pdf.credential.net/5d4glxlv_1652350391335.pdf)
+- [Analyzing and Visualizing Data with Power BI] 
 #### DataCamp
 - [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/5152fafb234fcf1f9ad0769a4e7543a177aab569)
 - [Introduction to Relational Database in SQL](https://www.datacamp.com/statement-of-accomplishment/course/89a53bb100c5be34df2547ca62bf42d11128fd93)

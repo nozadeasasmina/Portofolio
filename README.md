@@ -1,6 +1,6 @@
 # Noza's Portofolio
 ## Projects
-- [Project-based Intern: Business Intelligence Analyst Bank Muamalat Virtual Internship Experience]
+- [Project-based Intern: Business Intelligence Analyst Bank Muamalat Virtual Internship Experience](https://github.com/nozadeasasmina/Project-Based-Intern-Business-Intelligence-Analyst-Virtual-Internship-Experience-Bank-Muamalat-/blob/main/README.md)
 - [Dashboard using GDS](https://datastudio.google.com/reporting/2c15b5f5-87e7-445d-991e-bc5a740bd511)
 - [Dashboard using Tableau](https://public.tableau.com/shared/X5GS8PXWC?:display_count=n&:origin=viz_share_link)
 - [Project: House Price Prediction](https://github.com/nozadeasasmina/House_Price_Prediction)

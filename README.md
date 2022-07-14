@@ -1,5 +1,6 @@
 # Noza's Portofolio
 ## Projects
+- [Project-based Intern: Business Intelligence Analyst Bank Muamalat Virtual Internship Experience]
 - [Dashboard using GDS](https://datastudio.google.com/reporting/2c15b5f5-87e7-445d-991e-bc5a740bd511)
 - [Dashboard using Tableau](https://public.tableau.com/shared/X5GS8PXWC?:display_count=n&:origin=viz_share_link)
 - [Project: House Price Prediction](https://github.com/nozadeasasmina/House_Price_Prediction)
@@ -14,7 +15,7 @@
 - [Data Analysis: A Practical Introduction for Absolute Beginners](https://pdf.credential.net/37lt636j_1652161006053.pdf)
 - [Introduction to Data Analysis using Excel](https://pdf.credential.net/k19aknfc_1652160917844.pdf)
 - [Data Visualization: A Practical Approach for Absolute Beginners](https://pdf.credential.net/5d4glxlv_1652350391335.pdf)
-- [Analyzing and Visualizing Data with Power BI] 
+- [Analyzing and Visualizing Data with Power BI](https://pdf.credential.net/b62m7brg_1654075868094.pdf)
 #### DataCamp
 - [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/5152fafb234fcf1f9ad0769a4e7543a177aab569)
 - [Introduction to Relational Database in SQL](https://www.datacamp.com/statement-of-accomplishment/course/89a53bb100c5be34df2547ca62bf42d11128fd93)
